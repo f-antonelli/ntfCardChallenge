@@ -100,4 +100,5 @@
   color: white; }
 
 body {
-  background-color: #0d192b; }
+  background-color: #0d192b;
+  overflow: hidden; }
